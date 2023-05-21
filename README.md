@@ -28,4 +28,5 @@ This is a simple Note maker website with Appwrite as backend and Pico css for fr
 ## Screenshots
 
 ![image](Webpage.png)
-![image](Screenshot (431).png)
+
+![image](Appwritedb.png)
